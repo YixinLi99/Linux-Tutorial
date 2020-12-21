@@ -14,3 +14,5 @@
 `scp -r k1763287@login3.rosalind.kcl.ac.uk:/scratch/groups/nms_bio_nanomaterials/k1763287/charmm-gui/gromacs .`
 ###### transfer a file 
 `scp file.txt k1763287@login3.rosalind.kcl.ac.uk:/scratch/groups/nms_bio_nanomaterials/k1763287 `
+###### run python file in terminal
+`~/opt/anaconda3/bin/python q12.py`
