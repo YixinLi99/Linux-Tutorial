@@ -6,6 +6,8 @@
 ##### Linux Command Line 
 ###### remove a file 
 `rm`
+###### remove a directory
+`rmdir`
 ###### rename a fie
 `mv job_script.sh jobscript1.sh`
 ###### move a fie
