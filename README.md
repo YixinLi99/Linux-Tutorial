@@ -2,6 +2,8 @@
 
 ###### Unpacking tar.gz
 ```gunzip -c foo.tar.gz```
+###### to tar a regular folder
+`tar -zcvf archive_name.tar.gz folder_to_compress`
 
 ##### Linux Command Line 
 ###### remove a file 
