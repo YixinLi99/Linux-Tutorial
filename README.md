@@ -37,5 +37,7 @@
 ###### Search
 `^W`
 
+In MacOS: M-B means 'exc' B
+
 Linux Tutorial: 
 https://zhuanlan.zhihu.com/p/36801617 
