@@ -22,3 +22,20 @@
 `scp file.txt k1763287@login3.rosalind.kcl.ac.uk:/scratch/groups/nms_bio_nanomaterials/k1763287 `
 ###### run python file in terminal
 `~/opt/anaconda3/bin/python q12.py`
+###### to know the executing size of files
+`ls -l *.dcd`
+###### to browse the terminal history
+`cat ~/.bash_history`
+
+##### Nano Command Line 
+###### Next Page 
+`^V`
+###### Previous Page 
+`^Y`
+###### Jump to Last Page
+`^_` + `_V`
+###### Search
+`^W`
+
+Linux Tutorial: 
+https://zhuanlan.zhihu.com/p/36801617 
