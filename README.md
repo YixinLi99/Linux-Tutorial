@@ -39,5 +39,8 @@
 
 In MacOS: M-B means 'exc' B
 
+###### display changes on file during running process
+`tail -f <file.name>`
+
 Linux Tutorial: 
 https://zhuanlan.zhihu.com/p/36801617 
