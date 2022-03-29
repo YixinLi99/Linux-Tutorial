@@ -44,3 +44,6 @@ In MacOS: M-B means 'exc' B
 
 Linux Tutorial: 
 https://zhuanlan.zhihu.com/p/36801617 
+
+Bash.sh Cheatsheet:
+https://github.com/skywind3000/awesome-cheatsheets/blob/master/languages/bash.sh
