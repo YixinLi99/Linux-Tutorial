@@ -48,5 +48,10 @@ https://zhuanlan.zhihu.com/p/36801617
 Bash.sh Cheatsheet:
 https://github.com/skywind3000/awesome-cheatsheets/blob/master/languages/bash.sh
 
-Check Commands history:
+###### Check Commands history:
 `history`
+
+###### to display the output files in numerical orders
+`ls -v snapshot*.gro`
+`ls -v1 snapshot*.gro`
+`ls -v snapshot*.gro | wc -l`
